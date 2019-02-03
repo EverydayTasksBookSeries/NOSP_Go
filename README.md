@@ -24,6 +24,7 @@
 
 当前计划阅读的第三方开源库，列举如下：
 
+- Go语言标准库
 - [codesearch](https://github.com/google/codesearch) - 代码搜索工具，by Russ Cox (one of the Go authors)
 - [fsnotify](https://github.com/fsnotify/fsnotify) - 跨平台的文件消息通知系统
 - [etcd](https://github.com/etcd-io/etcd) - 分布式配置系统兼键值库
