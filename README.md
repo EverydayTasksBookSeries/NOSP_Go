@@ -1,4 +1,4 @@
-# Notes for Open Source Projects with Go | Go语言开原工程阅读笔记
+# Notes for Open Source Projects with Go | Go语言开源工程阅读笔记
 
 这个项目是《Go语言日常》的配套文档，目标是记录我感兴趣的开源项目的阅读笔记。
 
