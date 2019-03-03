@@ -37,3 +37,4 @@
 | tail | [tail](https://github.com/hpcloud/tail) |  tail in Go|
 | viper | [viper](https://github.com/spf13/viper) |  Configuratio library|
 | protobuf | [protobuf](https://github.com/golang/protobuf) |  protobuf support for go|
+| gonum | [gonum](https://github.com/gonum) | Go语言科学计算 |
