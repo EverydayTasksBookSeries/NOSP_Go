@@ -38,3 +38,4 @@
 | viper | [viper](https://github.com/spf13/viper) |  Configuratio library|
 | protobuf | [protobuf](https://github.com/golang/protobuf) |  protobuf support for go|
 | gonum | [gonum](https://github.com/gonum) | Go语言科学计算 |
+| PPGo_Job | [PPGo_Job](https://github.com/george518/PPGo_Job) | 多人写作定时任务管理系统 |
